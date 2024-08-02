@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 ### So, here's to building, learning, creating, and connecting! If you're looking for a coding buddy, an open-source collaborator, or simply someone to chat about the latest tech trends and hidden book gems, hit me up!
 
-My Skills:
-
+## My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode)](https://skillicons.dev)
 
-Connect with me : 
+## My Skills( In a more fun way ):
+<img src="https://github.com/user-attachments/assets/902d77e1-bf48-4d90-98bf-42f76e95457b" width=700 height=700/>
 
+## Connect with me : 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sushma-kewat/)
