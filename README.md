@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Developer :heart_eyes_cat:, and creative thinker :nerd_face:
 
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode,supabase, vercel,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode,supabase,vercel,vite)](https://skillicons.dev)
 
 <!--
 ## My Skills( In a more fun way ):
