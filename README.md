@@ -13,27 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Aspiring coder :heart_eyes_cat:, open-source enthusiast :muscle:, and creative thinker :nerd_face:
-
-### I'm an MCA student with a thirst for coding and a knack for exploring the ever-evolving tech landscape. Building things with lines of code excites me, whether it's a blog application using Django, a weather app powered by React :cloud_with_rain:, or delving into data analysis with Kaggle datasets.
-
-#### But the journey doesn't stop there! I'm passionate about contributing to the open-source community, sharing my skills and learning from the incredible minds around me. It's a place where collaboration thrives and innovation takes flight :sunglasses:.
-
-### I craft interactive experiences using the wizardry of JavaScript and React. Think captivating interfaces that dance with every click, smooth animations that mesmerize, and UIs so intuitive, they feel like extensions of your mind.
-
-#### But the spell doesn't stop there :space_invader:. Underneath the surface, I wield the power of Django and Java, building robust foundations that hum with efficiency and elegance. Data? I bend it to my will, shaping it into insights that tell compelling stories.
-
-#### Beyond the digital realm, I find solace in the vibrant world of art. Painting and drawing allow me to express myself in a different way, while curling up with a good book fuels my imagination and opens new doors to knowledge.
-
-#### More than just code, I'm an alchemist of imagination. I transform ideas into pixels, weave logic into lines, and breathe life into digital creations. So, let's embark on a journey where technology meets magic, and together, we'll build something extraordinary.
-
-### So, here's to building, learning, creating, and connecting! If you're looking for a coding buddy, an open-source collaborator, or simply someone to chat about the latest tech trends and hidden book gems, hit me up!
+## Developer :heart_eyes_cat:, and creative thinker :nerd_face:
 
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode,supabase, vercel,vite)](https://skillicons.dev)
 
+<!--
 ## My Skills( In a more fun way ):
 <img src="https://github.com/user-attachments/assets/902d77e1-bf48-4d90-98bf-42f76e95457b" width=700 height=700/>
+-->
 
 ## Connect with me : 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sushma-kewat/)
