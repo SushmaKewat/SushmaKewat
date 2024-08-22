@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 -->
 ## Developer :heart_eyes_cat:, and creative thinker :nerd_face:
 
+
+<span align="left">
+<img alt="@SushmaKewat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116093733&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="250"> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushmaKewat&theme=dark" alt="SushmaKewat" width="500" height="250"/>
+</span>
+
+<br><br>
+
 ## My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode,supabase,vercel,vite)](https://skillicons.dev)
 
