@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <span align="center">
-<img alt="@SushmaKewat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116093733&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="250"> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushmaKewat&theme=dark" alt="SushmaKewat" width="500" height="250"/>
+<img align="center" alt="@SushmaKewat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116093733&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="250"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SushmaKewat&theme=dark" alt="SushmaKewat" width="500" height="250"/>
 </span>
 
 <br><br>
