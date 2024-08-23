@@ -19,41 +19,41 @@
                 animation-delay: 1s;
             }
             .user:nth-child(3) {
-                animation-delay: 3s;
+                animation-delay: 4s;
             }
             .user:nth-child(5) {
-                animation-delay: 5s;
+                animation-delay: 10s;
             }
             .user:nth-child(7) {
-                animation-delay: 7s;
+                animation-delay: 14s;
             }
             .user:nth-child(9) {
-                animation-delay: 9s;
+                animation-delay: 19s;
             }
             .user:nth-child(11) {
-                animation-delay: 11s;
+                animation-delay: 23s;
             }
 
             .me:nth-child(2) {
                 animation-delay: 2s;
             }
             .me:nth-child(4) {
-                animation-delay: 4s;
-            }
-            .me:nth-child(6) {
                 animation-delay: 6s;
             }
-            .me:nth-child(8) {
-                animation-delay: 8s;
-            }
-            .me:nth-child(10) {
-                animation-delay: 10s;
-            }
-            .me:nth-child(12) {
+            .me:nth-child(6) {
                 animation-delay: 12s;
             }
+            .me:nth-child(8) {
+                animation-delay: 17s;
+            }
+            .me:nth-child(10) {
+                animation-delay: 21s;
+            }
+            .me:nth-child(12) {
+                animation-delay: 25s;
+            }
             .me:nth-child(13) {
-                animation-delay: 13s;
+                animation-delay: 26s;
             }
 				.container {
                     display: block;
