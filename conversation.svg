@@ -1,0 +1,239 @@
+<svg fill="none" viewBox="0 0 1000 2500" width="800" height="2000" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+
+            @keyframes fadeIn {
+                from {
+                    transform: translateY(100%);
+                    opacity: 0;
+                }
+  
+                to {
+                    transform: translateY(0%);
+                    opacity: 1;
+                }
+            }
+
+            .user:nth-child(1) {
+                animation-delay: 1s;
+            }
+            .user:nth-child(3) {
+                animation-delay: 3s;
+            }
+            .user:nth-child(5) {
+                animation-delay: 5s;
+            }
+            .user:nth-child(7) {
+                animation-delay: 7s;
+            }
+            .user:nth-child(9) {
+                animation-delay: 9s;
+            }
+            .user:nth-child(11) {
+                animation-delay: 11s;
+            }
+
+            .me:nth-child(2) {
+                animation-delay: 2s;
+            }
+            .me:nth-child(4) {
+                animation-delay: 4s;
+            }
+            .me:nth-child(6) {
+                animation-delay: 6s;
+            }
+            .me:nth-child(8) {
+                animation-delay: 8s;
+            }
+            .me:nth-child(10) {
+                animation-delay: 10s;
+            }
+            .me:nth-child(12) {
+                animation-delay: 12s;
+            }
+            .me:nth-child(13) {
+                animation-delay: 13s;
+            }
+				.container {
+                    display: block;
+                    font-size: 30px;
+					margin: 0;
+					width: 100%;
+					height: 100%;
+					background: transparent;
+					color: white;
+				}
+
+                .user{
+                    display:flex;
+                    flex-direction: row-reverse;
+
+                    opacity: 0;
+                    animation-name: fadeIn;
+                    animation-duration: 2s;
+                    animation-iteration-count: 1;
+                    animation-fill-mode: forwards; 
+                }
+
+                .user-dialog{
+                    background-color: #1badf6;
+                    width: fit-content;
+                    max-width: 55%;
+                    padding:2%;
+                    float: right;
+                    justify-items:end;
+                    margin-bottom: 25px;
+                    border-radius: 15px;
+                }
+
+                .me{
+                    display:flex;
+                    flex-direction: row;
+
+                    opacity: 0;
+                    animation-name: fadeIn;
+                    animation-duration: 2s;
+                    animation-iteration-count: 1;
+                    animation-fill-mode: forwards;
+                }
+
+                .my-dialog{
+                    background-color: #2d4759;
+                    width: fit-content;
+                    max-width: 55%;
+                    padding:2%;
+                    justify-items:start;
+                    text-align:left;
+                    float: left;
+                    margin-bottom: 25px;
+                    border-radius: 15px;
+                }
+
+                .avatar{
+                    width:50px;
+                    height:50px;
+                    border-radius:50%;
+                    margin: 0 1% 0 1%;
+                    
+                }
+
+                .my-avatar{
+                    background-image: url(profile-pic.jpg);
+                    background-size: cover;
+                    background-color:red;
+                }
+                .user-avatar{
+                    background-image: url(user-pic.jpg);
+                    background-size: cover;
+                    background-color:blue;
+                }
+
+		    </style>
+            <div class="container">
+				<div class="user">
+                    <div class="avatar user-avatar"></div>
+                    <div class="dialog user-dialog">
+                        Hey Sushma👋, let's get to know you.
+                    </div>
+                </div>
+
+				<div class="me">
+                    <div class="avatar my-avatar"></div>
+                    <div class="dialog my-dialog">
+                        Hello buddy😸! I'm Sushma Kewat and secretly a coding ninja🤭.
+                        <br></br>
+                        Fun fact: I'm an artist too🎨. 
+                    </div>
+                </div>
+
+				<div class="user">
+                    <div class="avatar user-avatar"></div>
+                    <div class="dialog user-dialog">
+                        That's great. 🔭What things are you currently working on?
+                    </div>
+                </div>
+
+				<div class="me">    
+                    <div class="avatar my-avatar"></div>
+                    <div class="dialog my-dialog">
+                        I'm currently working as a Software Developer👩‍💻, mainly creating GenAI🤖 based applications.
+                        <br></br>
+                        Well this sometimes also involves extensive research📚.
+                        <br></br>
+                        Along with this, I do web development💻 in my after-work hours.
+                    </div>
+                </div>
+				
+                <div class="user">
+                    <div class="avatar user-avatar"></div>
+                    <div class="dialog user-dialog">
+                        Sounds fun! 🌱What about your current learning?
+                    </div>
+                </div>
+
+				<div class="me">
+                    <div class="avatar my-avatar"></div>
+                    <div class="dialog my-dialog">
+                        Currently I'm learning more about Machine Learning &amp; Neural Networks🤓.
+                        <br></br>
+                        Also, I'm heavily invested in learning about 3D animated websites🔮 these days.
+                    </div>
+                </div>
+				
+                <div class="user">
+                    <div class="avatar user-avatar"></div>
+                    <div class="dialog user-dialog">
+                        That's great to know. 👯Would you be interested in a collaboration?
+                    </div>
+                </div>
+
+				<div class="me">
+                    <div class="avatar my-avatar"></div>
+                    <div class="dialog my-dialog">
+                        Definitely yes! I'm always looking for opportunities where I can work with like-minded people and develop solutions that impact real-world problems and contribute to my growth as well..
+                    </div>
+                </div>
+				
+                <div class="user">
+                    <div class="avatar user-avatar"></div>
+                    <div class="dialog user-dialog">
+                        Glad to know. Let's connect and build something together.
+                    </div>
+                </div>
+
+				<div class="me">
+                    <div class="avatar my-avatar"></div>
+                    <div class="dialog my-dialog">
+                        Sure. Here's my linkedin👉 <a href="https://www.linkedin.com/in/sushma-kewat/">Sushma Kewat</a>
+                    </div>
+                </div>
+				
+                <div class="user">
+                    <div class="avatar user-avatar"></div>
+                    <div class="dialog user-dialog">
+                       Yup! 💬And what other things are you involved into?
+                    </div>
+                </div>
+				
+                <div class="me">
+                    <div class="avatar my-avatar"></div>
+                    <div class="dialog my-dialog">
+                        Well it's answer is a long one tbh😂.
+                        <br></br>
+                        When I'm not coding, I read books📚 (mostly non-fiction/personal development).
+                        Sometimes I may cook🧑‍🍳. 
+                        <br></br>
+                        Then I play with my cat a little😽. Oou and I do art👩‍🎨.
+                    </div>
+                </div>
+				<div class="me">
+                <div class="avatar my-avatar"></div>
+                  <div class="dialog my-dialog">
+                        Hey I wanna know about you too. Ping me on <a href="https://www.linkedin.com/in/sushma-kewat/">LinkedIn</a>
+                    </div>  
+                </div>
+			</div>
+        </div>
+    </foreignObject>
+</svg>
