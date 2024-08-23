@@ -119,7 +119,7 @@
                 }
 
                 .my-avatar{
-                    background-image: url(profile-pic.jpg);
+                    background-image: url('profile-pic.jpg');
                     background-size: cover;
                     background-color:red;
                 }
