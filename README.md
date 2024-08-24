@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Developer :heart_eyes_cat:, and creative thinker :nerd_face:
 
 <div align="center">
-<img align="center" src="conversation.svg?sanitize=true" alt="conversation  about me" width="1000" height="1500"/>
+<img align="center" src="conversation.svg" alt="conversation  about me" width="1000" height="1500"/>
 </div>
 
 <span align="center">
