@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <span align="center">
 <h2> Here are my GitHub stats📈 </h2>
-<img align="center" alt="@SushmaKewat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116093733&activity_type=all&image_size=auto&color_scheme=dark"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SushmaKewat&theme=dark" alt="SushmaKewat" width="400" height="250"/>
+<img align="center" alt="@SushmaKewat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116093733&activity_type=all&image_size=auto&color_scheme=dark" width="400"/> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SushmaKewat&theme=dark" alt="SushmaKewat" width="400"/>
 </span>
 
 <br><br>
