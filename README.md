@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - width="1000" height="1500"
 -->
 
-# Developer 😻, and Creative Thinker 🤓, Dreamer 💭, Achiever 💪
+<div align="center">
+<h1> Developer 😻, Creative Thinker 🤓, Dreamer 💭, Achiever 💪 </h1>
+</div>
 
 <div align="center">
-<img align="center" src="conversation.svg?sanitize=true" alt="conversation about me" />
+<img align="center" src="conversation.svg?sanitize=true" alt="conversation about me" width="700"/>
 </div>
 
 <span align="center">
