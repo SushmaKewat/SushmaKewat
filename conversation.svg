@@ -124,7 +124,7 @@
                     background-color:red;
                 }
                 .user-avatar{
-                    background-image: url(user-pic.jpg);
+                    background-image: url(https://github.com/SushmaKewat/SushmaKewat/blob/main/user-pic.jpg);
                     background-size: cover;
                     background-color:blue;
                 }
