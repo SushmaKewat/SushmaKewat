@@ -1,7 +1,8 @@
-<svg fill="none" viewBox="0 0 1000 2500" width="800" height="2000" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1000 2000" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
         <style>
+        <!-- width="800" height="2000" -->
             @keyframes fadeIn {
 	            from {
 		        transform: translateY(100%);
@@ -56,7 +57,7 @@
 }
 .container {
 	display: block;
-	font-size: 30px;
+	font-size: 25px;
 	margin: 0;
 	width: 100%;
 	height: 100%;

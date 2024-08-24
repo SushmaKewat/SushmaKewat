@@ -11,24 +11,39 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- width="1000" height="1500"
 -->
 
-# Developer :heart_eyes_cat:, and Creative Thinker :nerd_face:, Dreamer 💭, Achiever 💪
+# Developer 😻, and Creative Thinker 🤓, Dreamer 💭, Achiever 💪
 
 <div align="center">
-<img align="center" src="conversation.svg?sanitize=true" alt="conversation about me" width="1000" height="1500"/>
+<img align="center" src="conversation.svg?sanitize=true" alt="conversation about me" />
 </div>
 
 <span align="center">
-<img align="center" alt="@SushmaKewat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116093733&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="250"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SushmaKewat&theme=dark" alt="SushmaKewat" width="500" height="250"/>
+<h2> Here are my GitHub stats📈 </h2>
+<img align="center" alt="@SushmaKewat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116093733&activity_type=all&image_size=auto&color_scheme=dark" width="400" height="200"> &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SushmaKewat&theme=dark" alt="SushmaKewat" width="400" height="250"/>
 </span>
 
 <br><br>
 
-## My Skills:
+<div align="center">
+<h2> My Tech Stack 🛠️ </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode,supabase,vercel,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,django,java,c,nodejs,express,git,github,mongodb,mysql,netlify,py,r,vscode,supabase,vercel,vite&perline=7)](https://skillicons.dev)
 
-## Connect with me :
+</div>
+
+<div align="center">
+<h2> Connect with me 📱 </h2>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sushma-kewat/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:sushmak1693@gmail.com?subject=[GitHub]%20Source%20Sushma%20Profile)
+
+</div>
+<br><br>
+<div align="center">
+Liked my profile?
+<br>
+Give a star⭐ and checkout the code❣️
+</div>
