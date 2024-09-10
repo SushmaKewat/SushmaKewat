@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img align="center" src="conversation.svg?sanitize=true" alt="conversation about me" width="700"/>
+<img align="center" src="conversation.svg?sanitize=true" alt="conversation about me" width="500"/>
 </div>
 
 <span align="center">
